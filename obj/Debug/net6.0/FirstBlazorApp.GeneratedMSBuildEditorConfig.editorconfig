@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = FirstBlazorApp
+build_property.RootNamespace = FirstBlazorApp
+build_property.ProjectDir = /home/sheroz/Projects/LearnCsharp/FirstBlazorApp/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/sheroz/Projects/LearnCsharp/FirstBlazorApp
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/sheroz/Projects/LearnCsharp/FirstBlazorApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sheroz/Projects/LearnCsharp/FirstBlazorApp/Pages/Converter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udmVydGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sheroz/Projects/LearnCsharp/FirstBlazorApp/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sheroz/Projects/LearnCsharp/FirstBlazorApp/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sheroz/Projects/LearnCsharp/FirstBlazorApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sheroz/Projects/LearnCsharp/FirstBlazorApp/Pages/ShoppingList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hvcHBpbmdMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sheroz/Projects/LearnCsharp/FirstBlazorApp/Shared/Item.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0l0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sheroz/Projects/LearnCsharp/FirstBlazorApp/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sheroz/Projects/LearnCsharp/FirstBlazorApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sheroz/Projects/LearnCsharp/FirstBlazorApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-p8dcyvemcp
+
+[/home/sheroz/Projects/LearnCsharp/FirstBlazorApp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-p1mlf4smd3
+
+[/home/sheroz/Projects/LearnCsharp/FirstBlazorApp/Shared/ShoppingListLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1Nob3BwaW5nTGlzdExheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-xpoicg8tts

@@ -814,3 +814,4 @@
 /home/sheroz/Projects/LearnCsharp/FirstBlazorApp/obj/Debug/net6.0/build-gz/CE9dDiId.gz
 /home/sheroz/Projects/LearnCsharp/FirstBlazorApp/obj/Debug/net6.0/build-gz/o4MaDt2F.gz
 /home/sheroz/Projects/LearnCsharp/FirstBlazorApp/obj/Debug/net6.0/build-gz/EhEuBcoP.gz
+/home/sheroz/Projects/LearnCsharp/FirstBlazorApp/obj/Debug/net6.0/scopedcss/Pages/Isolate.razor.rz.scp.css

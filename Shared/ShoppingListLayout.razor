@@ -1,6 +1,6 @@
 @inherits LayoutComponentBase
 
-<div class="Layout">
+<div class="layout">
     <div class="header">
         <div>
             <a>@today.ToString("dddd, dd MMMM yyyy")</a>
@@ -8,9 +8,7 @@
     </div>
 
     <div class="sidebar">
-        <a href="/">Home</a>
-        <a href="/counter">Counter</a>
-        <a href="/converter">Converter</a>
+        <NavMenu />
     </div>
 
     <div class="content">
